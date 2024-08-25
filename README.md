@@ -3,3 +3,6 @@ This project presents a parking lot system developed in Java, incorporating basi
 
 #Overview
 This parking lot system is designed to handle multiple parking lots, each with its own floors and parking spaces. It’s set up so that each space can accommodate various types and sizes of vehicles, making sure there’s a spot that fits everything from small cars to larger trucks.
+
+
+## Features
