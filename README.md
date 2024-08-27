@@ -5,6 +5,10 @@ This project presents a parking lot system developed in Java, incorporating basi
 This parking lot system is designed to handle multiple parking lots, each with its own floors and parking spaces. It’s set up so that each space can accommodate various types and sizes of vehicles, making sure there’s a spot that fits everything from small cars to larger trucks.
 
 
+![Parking drawio (1)-1](https://github.com/user-attachments/assets/7a399232-7942-4789-b774-b154deac2fc8)
+
+
+
 ## Features
 
 * **Multiple Parking Lots:** The system can manage multiple parking lots, each with its own set of parking floors.
