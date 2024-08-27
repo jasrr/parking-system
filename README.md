@@ -7,7 +7,9 @@ This parking lot system is designed to handle multiple parking lots, each with i
 
 ![Parking drawio (1)-1](https://github.com/user-attachments/assets/7a399232-7942-4789-b774-b154deac2fc8)
 
+# UML Class
 
+![client drawio](https://github.com/user-attachments/assets/2189d308-d52c-4e78-b96e-175bdd8cbe50)
 
 ## Features
 
