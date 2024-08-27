@@ -15,7 +15,7 @@ This parking lot system is designed to handle multiple parking lots, each with i
 ##1 Requirements for Designing the Parking Lot System
 
 1.1 Functional Requirements
-User Authentication: The system must support secure user registration and login. This ensures that users can create and access their accounts safely, much like logging into a secure online banking system.
+User Authentication: The system must support user registration and login. This ensures that users can create and access their accounts safely, much like logging into a secure online banking system.
 Parking Space Management: Real-time tracking of parking space availability is essential. This feature will keep users informed about which spaces are free or occupied, similar to how inventory systems track product availability.
 Reservation System: Users should be able to reserve parking spots in advance through an online platform. This functionality is akin to booking a hotel room, providing users with the assurance of a secured spot before arriving.
 Payment Processing: A reliable payment system is crucial for handling parking fees. The payment process should be straightforward and secure, much like making a purchase on a well-established e-commerce site.
