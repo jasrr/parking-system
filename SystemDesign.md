@@ -80,7 +80,7 @@ Backend Services: Manage requests, process reservations, and handle payments.
 Database: Stores user data, parking information, and transaction records.
 System Process:
 
-User Registration: Users create accounts via the mobile app.
+User Registration: Users create accounts.
 Space Reservation: Users search for and book parking spaces based on their destination.
 Backend Processing: The system verifies space availability and provides instructions to the user.
 
