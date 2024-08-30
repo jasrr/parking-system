@@ -3,3 +3,11 @@ This project presents a parking lot system developed in Java, incorporating basi
 
 ## Overview
 This parking lot system is designed to handle multiple parking lots, each with its own floors and parking spaces. It’s set up so that each space can accommodate various types and sizes of vehicles, making sure there’s a spot that fits everything from small cars to larger trucks.
+
+# Features
+
+* **Multiple Parking Lots:** The system can manage multiple parking lots, each with its own set of parking floors.
+* **Parking Floors:** Each parking lot consists of multiple parking floors, accommodating different numbers of vehicles.
+* **Parking Slots:** The system supports various vehicles, including cars, motorcycles, trucks, buses, and bicycles.
+* **Dummy Database:** Although the system does not use a real database, it simulates database functionality using a map-based data structure.
+
