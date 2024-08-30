@@ -15,14 +15,6 @@
 ![database 2](https://github.com/user-attachments/assets/5ba01bc3-b9c9-4dde-a230-526439d1e117)
 
 
-
-# Features
-
-* **Multiple Parking Lots:** The system can manage multiple parking lots, each with its own set of parking floors.
-* **Parking Floors:** Each parking lot consists of multiple parking floors, accommodating different numbers of vehicles.
-* **Parking Slots:** The system supports various vehicles, including cars, motorcycles, trucks, buses, and bicycles.
-* **Dummy Database:** Although the system does not use a real database, it simulates database functionality using a map-based data structure.
-
 ## 1 Requirements for Designing the Parking Lot System
 
 ## 1.1 Functional Requirements
