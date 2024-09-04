@@ -1,4 +1,4 @@
-# Parking sytem System design
+# Parking sytem
 
 
 ![Parking drawio (1)-1](https://github.com/user-attachments/assets/f7ed282e-5f46-44e5-be03-d6dcf693e34c)
